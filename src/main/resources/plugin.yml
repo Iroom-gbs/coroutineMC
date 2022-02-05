@@ -1,0 +1,9 @@
+name: Coroutine
+version: '${version}'
+main: com.dayo.coroutine.Coroutine
+api-version: 1.16
+prefix: Coroutine
+authors: [ Dayo ]
+description: Coroutine plugin for spigot
+website: https://github.com/dayo05
+depend: [ Kotlin ]
