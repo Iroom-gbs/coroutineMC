@@ -1,6 +1,6 @@
 name: Coroutine
 version: '${version}'
-main: com.dayo.coroutine.Coroutine
+main: me.ddayo.coroutine.Coroutine
 api-version: 1.16
 prefix: Coroutine
 authors: [ Dayo ]

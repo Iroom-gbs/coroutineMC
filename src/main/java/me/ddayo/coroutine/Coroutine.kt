@@ -1,7 +1,7 @@
-package com.dayo.coroutine
+package me.ddayo.coroutine
 
-import com.dayo.coroutine.functions.CoroutineFunctions
-import com.dayo.coroutine.utils.Lock
+import me.ddayo.coroutine.functions.CoroutineFunctions
+import me.ddayo.coroutine.utils.Lock
 import org.bukkit.Bukkit
 import org.bukkit.plugin.java.JavaPlugin
 
